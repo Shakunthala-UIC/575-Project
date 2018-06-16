@@ -1,5 +1,5 @@
 
-#Automated product score generation based on sentiment analysis on customer reviews
+Automated product score generation based on sentiment analysis on customer reviews
 Tools Used: Python, Excel & R
 -----------------------------------------------------------------------------------------------------
 This repository contains 3 reports with increasing levels of details regarding my project idea and methodologies used.
